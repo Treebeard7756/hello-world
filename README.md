@@ -1,4 +1,3 @@
 # hello-world
 First Project 
-name=input("What is Your Name?"):
-  print("Hello", name)
+I guess this is really where its all going to start.
